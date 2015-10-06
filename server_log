@@ -1,0 +1,1585 @@
+INFO:root:last job index is 18
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+INFO:root:last job index is 19
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:last job index is 20
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:last job index is 21
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:last job index is 22
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:last job index is 27
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:last job index is 33
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 34
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 34
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 34
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:last job index is 35
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit"
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun echo; temp_task -nodesktop -nodisplay -nosplash -r "math_task('/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test','/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output','E coli iJR904','BAFBA','all','UMPK','UNK3',1,0);exit" 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output-t 30
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun python; temp_task demo.py -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output-t 30 
+INFO:root:last job index is 40
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 40
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 40
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 40
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+DEBUG:root:Debug temp_walltime: 0
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 didnot executed well because <class 'subprocess.CalledProcessError'>
+INFO:root:last job index is 41
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+INFO:root:last job index is 42
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 42
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 42
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 42
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+INFO:root:last job index is 43
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 43
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 43
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 20
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 20 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 20 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 didnot executed well because <class 'subprocess.CalledProcessError'>
+INFO:root:last job index is 44
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+DEBUG:root:Debug self.walltime: None
+INFO:root:last job index is 45
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 45
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 45
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 45
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 45
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 45
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 20
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 20 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 20 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 30 didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 
+WARNING:root:Task demo.py  -o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output -t 10 didnot executed well because <class 'subprocess.CalledProcessError'>
+INFO:root:last job index is 46
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 30']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 30'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 30'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 20']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 20'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 20'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 10']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 10'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 10'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 30']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 30'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 30'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 10']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 10'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t 10'] didnot executed well because <class 'subprocess.CalledProcessError'>
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t30']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t30'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t20']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t20'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t20'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t10']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t10'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t10'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t30']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t30'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t30'] didnot executed well because <class 'subprocess.CalledProcessError'>
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t10']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t10'] 
+WARNING:root:Task [u'python', u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t10'] didnot executed well because <class 'subprocess.CalledProcessError'>
+INFO:root:last job index is 48
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:last job index is 51
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:last job index is 52
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug temp_proj: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:last job index is 53
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:last job index is 54
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 54
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 54
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 54
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:last job index is 55
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:last job index is 56
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 56
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 56
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:last job index is 57
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:last job index is 58
+INFO:root:starting up on localhost port 10000
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 64#*#demo01.zip
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 64
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54036)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54037)
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 65, "client_tasks_id": "test01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54038)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: [u'-nodesktop -nodisplay -nosplash -r "math_task(\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test\',\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output\',\'E coli iJR904\',\'BAFBA\',\'all\',\'UMPK\',\'UNK3\',1,0);exit"']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun echo; temp_task [u'-nodesktop -nodisplay -nosplash -r "math_task(\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test\',\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output\',\'E coli iJR904\',\'BAFBA\',\'all\',\'UMPK\',\'UNK3\',1,0);exit"'] 
+INFO:root:Server Task: Saved test01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/65#*#test01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54046)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54047)
+INFO:root:Server Take tasks:test01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 66, "client_tasks_id": "test01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54048)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test
+DEBUG:root:Debug temp_exfun: echo
+DEBUG:root:Debug temp_task: [u'-nodesktop -nodisplay -nosplash -r "math_task(\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test\',\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output\',\'E coli iJR904\',\'BAFBA\',\'all\',\'UMPK\',\'UNK3\',1,0);exit"']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun echo; temp_task [u'-nodesktop -nodisplay -nosplash -r "math_task(\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test\',\'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/test/Output\',\'E coli iJR904\',\'BAFBA\',\'all\',\'UMPK\',\'UNK3\',1,0);exit"'] 
+INFO:root:Server Task: Saved test01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/66#*#test01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54067)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54068)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 67, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54069)
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current tasks is not requested task, try check_progs_in_past 
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/67#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54075)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54076)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 68, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54077)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current tasks is not requested task, try check_progs_in_past 
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/68#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54079)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54080)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 69, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54081)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current tasks is not requested task, try check_progs_in_past 
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/69#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54087)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54088)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 70, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54089)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current tasks is not requested task, try check_progs_in_past 
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/70#*#demo01.zip
+INFO:root:last job index is 70
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54136)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54137)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 71, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54138)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 71
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/71#*#demo01.zip
+INFO:root:last job index is 71
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54157)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54158)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 72, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54159)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 72
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/72#*#demo01.zip
+INFO:root:last job index is 72
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 72
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 72
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 72
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 72
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54164)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54165)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 73, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54166)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 73
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Current thread is no longer processing the task, try to serch result in Output
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/73#*#demo01.zip
+INFO:root:last job index is 73
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54175)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 54176)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 74, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 54177)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 74
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/74#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 74#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55494)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55497)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55545)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55546)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55547)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55571)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55578)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55579)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 75, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55580)
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 75
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/75#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 75#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55611)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55612)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 76, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55613)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 76
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/76#*#demo01.zip
+INFO:root:last job index is 76
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55648)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55649)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 77, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55650)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 77
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/77#*#demo01.zip
+INFO:root:last job index is 77
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55662)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55663)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 78, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55664)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 78
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/78#*#demo01.zip
+INFO:root:last job index is 78
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 78
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 78
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 78
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55668)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55669)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 79, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55670)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 79
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/79#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 79#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 79#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55701)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55702)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 80, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55703)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 80
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 80
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/80#*#demo01.zip
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 80#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 80#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55724)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55725)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 81, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55726)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 81
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/81#*#demo01.zip
+INFO:root:last job index is 81
+INFO:root:starting up on localhost port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55735)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('127.0.0.1', 55736)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 82, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('127.0.0.1', 55737)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 82
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 82
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 82
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 82
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 82
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Find target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+INFO:root:last job index is 82
+INFO:root:starting up on localhost port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 82#*#demo01.zip
+DEBUG:root:Found target result /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/82#*#demo01.zip
+INFO:root:last job index is 0
+INFO:root:starting up on 192.168.1.8 port 10000
+INFO:root:last job index is 0
+INFO:root:starting up on 192.168.1.8 port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('192.168.1.8', 55350)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('192.168.1.8', 55351)
+INFO:root:Server Take tasks:demo01
+DEBUG:root:Debug set sstat to busy
+INFO:root:Send '{"task_log_idx": 1, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('192.168.1.8', 55352)
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 1
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/TaskOut/1#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 1#*#demo01.zip
+INFO:root:last job index is 1
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 48488)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 48489)
+INFO:root:Server Take tasks:demo01
+INFO:root:Send '{"task_log_idx": 2, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('14.201.89.65', 48490)
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 2
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/ubuntu/RCloud/RCProj/TaskOut/2#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 2#*#demo01.zip
+INFO:root:last job index is 2
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 2
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 2
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 48715)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 48716)
+INFO:root:Server Take tasks:demo01
+INFO:root:Send '{"task_log_idx": 3, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('14.201.89.65', 48717)
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 3
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/ubuntu/RCloud/RCProj/TaskOut/3#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 3#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 48749)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 48750)
+INFO:root:Server Take tasks:demo01
+INFO:root:Send '{"task_log_idx": 4, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('14.201.89.65', 48751)
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 4
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/ubuntu/RCloud/RCProj/TaskOut/4#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 4#*#demo01.zip
+DEBUG:root:Found target result /home/ubuntu/RCloud/RCProj/TaskOut/4#*#demo01.zip
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 4
+INFO:root:starting up on 130.56.248.154 port 10000
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 4#*#demo01.zip
+DEBUG:root:Found target result /home/ubuntu/RCloud/RCProj/TaskOut/4#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 4#*#demo01.zip
+DEBUG:root:Found target result /home/ubuntu/RCloud/RCProj/TaskOut/4#*#demo01.zip
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current thread is None, try check_progs_in_past
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 4#*#demo01.zip
+DEBUG:root:Found target result /home/ubuntu/RCloud/RCProj/TaskOut/4#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 49117)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 49119)
+INFO:root:Server Take tasks:demo01
+INFO:root:Send '{"task_log_idx": 5, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('14.201.89.65', 49120)
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 5
+INFO:root:Server Task: Saved demo01 output to /home/ubuntu/RCloud/RCProj/TaskOut/5#*#demo01.zip
+DEBUG:root:Current task is just completed, try to search result in Output
+DEBUG:root:Enter check_progs_in_past
+DEBUG:root:Found target result 5#*#demo01.zip
+DEBUG:root:Found target result /home/ubuntu/RCloud/RCProj/TaskOut/5#*#demo01.zip
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 49129)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('14.201.89.65', 49131)
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 10000
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 6446
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 6446
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 6446
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 6446
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 6446
+INFO:root:last job index is 5
+INFO:root:starting up on 130.56.248.154 port 6446
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('130.56.248.154', 55295)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('130.56.248.154', 55296)
+INFO:root:Send "{"server_stat": "ready", "ab_projs_dir": "/home/ubuntu/RCloud/RCProj/Projs", "proj": true, "msg_type": "r_req_stat"}" to ('130.56.248.154', 55297)
+INFO:root:Server Take tasks:demo01
+INFO:root:Send '{"task_log_idx": 6, "client_tasks_id": "demo01", "msg_type": "r_req_task"}' to ('130.56.248.154', 55298)
+DEBUG:root:Debug set sstat to busy
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t4'] 
+DEBUG:root:Enter check_progs_inter
+DEBUG:root:current_thread : demo01 + 6
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t5'] 
+DEBUG:root:Received end signal from client, break the communication
+DEBUG:root:Debug self.proj_path: /home/ubuntu/RCloud/RCProj/Projs/demo
+DEBUG:root:Debug temp_exfun: python
+DEBUG:root:Debug temp_task: [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6']
+DEBUG:root:Debug self.walltime: None
+DEBUG:root:temp_exfun python; temp_task [u'demo.py', u'-o/home/ubuntu/RCloud/RCProj/Projs/demo/Output', u'-t6'] 
+INFO:root:Server Task: Saved demo01 output to /home/ubuntu/RCloud/RCProj/TaskOut/6#*#demo01.zip
