@@ -188,12 +188,10 @@ print('Start server at %s:%d'%(host_name,host_port))
 # ****** Service Loop starts from Here *****
 
 # create a tcp/ip socket
-
 sock = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-
+sock.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
 server_address = (SSTAT.host_name, SSTAT.port)
 logging.info( 'starting up on %s port %s' % server_address  )
-sock.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
 sock.bind(server_address)
 
 # listen for incoming connections

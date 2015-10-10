@@ -18,6 +18,9 @@ def zipdir(path, ziph):
 
 # ***** Important class here
 
+# ***** def_config ******
+# This is a class that contains the default configuration and essential labels
+
 class def_config:
     # define the initialization details
     default_port = 12333
@@ -28,8 +31,20 @@ class def_config:
                         ,'sock','prog_st','ab_taskout_path'])
     worker = Worker('client_tasks_id','worker_ip','worker_port','key','task_log_idx'
                         ,'sock','prog_st','ab_taskout_path')
-   
 
+    # define the 
+    Bulk_Assign_Dict = namedtuple('Bulk_Assign_Dict',
+                    ['ifile','proj','exfun','serverfile','walltime','tasks_id'])
+    bulk_assign_dict = Bulk_Assign_Dict(
+                    'ifile','proj','exfun','serverfile','walltime','tasks_id')
+   
+# ***** server_status *****
+# This is a class that manipulate the stat of server
+# In my client side scripts, There is usually a SSTAT (stands for Server STATus) instance for
+# That class.
+# It is responsible for dectecting the projects
+# responsible for processing the tasks,save the output.
+# and maintain the task log of server side.
 class server_status:
     # Provide a global status of the server.
 
@@ -178,6 +193,12 @@ class server_status:
         self.current_thread.start()
 
 
+# ***** task_thread *****
+# This is a helper thread for the server. 
+# It is responsible for processing the taskslist and save the result properly
+# Currently, Each Server can only hold one thread.
+# If there is a need, I sould make the server can hold multiple threads concurrently.
+# Probably depend on the number of cores that the server possessed.
 class task_thread(threading.Thread):
     # dedicated to solve a task currently owned by the server
     task_list = None
@@ -316,7 +337,12 @@ class task_thread(threading.Thread):
 
 
 
-    
+# ***** protocol *****
+# This class provides the protocol between servers and clients
+# 1. I use named tuples to unifiy the naming of dict attributes
+# 2. client should use gen_**_msg() to generate json request message
+# 3. server shoudl use gen_**_rep() to generate corresponding reply message
+# 4. It also contains a socket helper function to transfer arbitary length of message
 class protocol:
     # define the size of initial messages
     buff_size = 512

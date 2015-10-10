@@ -66,29 +66,32 @@ def check_one_server(worker,proj,results,idx):
     server_address = (worker[def_config.worker.worker_ip], worker[def_config.worker.worker_port])
     print('[Checking] Connecting to %s port %s'%server_address)
     try:
-        temp_sock.connect(server_address)
         
+        temp_sock.connect(server_address)
+       
+        temp_sock.settimeout(PROTOC.msg_timeout)
         message = PROTOC.gen_req_stat_msg(proj)
         
+       
         PROTOC.send_msg(temp_sock,message)
-        print('Send: \"%s\" to %s'%(message,worker[def_config.worker.worker_ip]))
-        
-        # recv , considered timeout
-        #temp_reply=PROTOC.recv_msg(temp_sock)
-        for _ in range(PROTOC.timeout_retries):
-            try:
-                temp_sock.settimeout(PROTOC.msg_timeout)
-                #temp_sock.setblocking(1) 
-                #temp_reply = temp_sock.recv(PROTOC.buff_size)
-                temp_reply = PROTOC.recv_msg(temp_sock)
-                break 
-            except socket.timeout:
-                print("caught a timeout")
-                pass
+        #print('[Send] to %s: \"%s\" '%(worker[def_config.worker.worker_ip],message))
+        temp_reply = PROTOC.recv_msg(temp_sock) 
+        # # recv , considered timeout
+        # #temp_reply=PROTOC.recv_msg(temp_sock)
+        # for _ in range(PROTOC.timeout_retries):
+        #     try:
+        #         temp_sock.settimeout(PROTOC.msg_timeout)
+        #         #temp_sock.setblocking(1) 
+        #         #temp_reply = temp_sock.recv(PROTOC.buff_size)
+        #         temp_reply = PROTOC.recv_msg(temp_sock)
+        #         break 
+        #     except socket.timeout:
+        #         print("caught a timeout")
+        #         pass
         
         # check reply
         if temp_reply !=None:
-            print('recv: %s'%temp_reply)
+            #print('[Recv] from %s: %s'%(worker[def_config.worker.worker_ip],temp_reply))
             reply = PROTOC.parse(temp_reply)
             #print(reply)
             if(reply[PROTOC.attr.msg_type]==PROTOC.reply.req_stat):
@@ -121,7 +124,7 @@ def check_one_server(worker,proj,results,idx):
     finally:
         temp_sock.close()
 
-def get_avail_workers(args_proj,args_serverfile):
+def get_total_workers(args_serverfile):
     workers = []
     # decide the workers
     if args_serverfile == None:
@@ -138,8 +141,7 @@ def get_avail_workers(args_proj,args_serverfile):
         #server_ips = fetch_server_ips()
         
 
-    # Check if the server available. and if the requested project available in that server
-    avail_ips = check_servers(workers,args_proj) 
+
     return workers
 
 # ***** Handle input/test part *****
@@ -152,5 +154,7 @@ if __name__ == "__main__":
         print('Essential proj is missing')
         exit()
     
-    get_avail_workers(args.proj,args.server_file)
+    total_workers = get_total_workers(args.server_file)
+    # Check if the server available. and if the requested project available in that server 
+    workers = check_servers(total_workers,args.proj)
     

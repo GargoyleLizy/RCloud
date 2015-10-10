@@ -30,3 +30,5 @@ C. install Octave
 	sudo apt-get install octave
 
 
+Cloud installization 
+	1. install supervisor
