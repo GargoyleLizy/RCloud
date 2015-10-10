@@ -20,7 +20,7 @@ def zipdir(path, ziph):
 
 class def_config:
     # define the initialization details
-    default_port = 6446
+    default_port = 12333
     log_delimiter = '#*#'
     # definition of worker log which will be stored in client
     Worker = namedtuple('Worker',
