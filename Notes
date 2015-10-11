@@ -1,0 +1,34 @@
+
+To connect to test01 machine
+	ssh -i rproject.pem ubuntu@115.146.94.151
+
+
+Nectar password
+	YTk5MmU3M2M0NjNkYmUw
+
+
+Local. 
+	apt-get install python-dev python-pip
+	pip install python-novaclient ; etc ...
+	source pt...openrc.sh file
+		openrc.sh would require the openstack password. give it the list above
+	nova list:
+		get your current vm lists
+	nova flavor list:
+		get your available vm flavor list; I can add another m2.small
+	
+	nova image list:
+		get the available image list; I prefer Ubuntu 14, and their codes are listed below:
+
+		544fb473-a56e-4740-8b04-4bbed71e6132 | Ubuntu 14.04 CloudImage
+		| 5bfe7f89-3571-49c8-a16e-753acee58aa8 | Ubuntu 14.04.2 
+
+
+C. install Octave
+	sudo apt-add-repository ppa:octave/stable
+	sudo apt-get update
+	sudo apt-get install octave
+
+
+Cloud installization 
+	1. install supervisor

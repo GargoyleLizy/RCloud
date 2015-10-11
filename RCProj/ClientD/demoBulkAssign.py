@@ -172,13 +172,17 @@ if __name__ == "__main__":
     print('# #Introduction: ')
     print('This server/client program is aimed to provide an user friendly interface of Cloud '
             +' resources for scientific users.')
+    tip = raw_input("\npress any key to continue;\n")
     #print('In server side, each Project will has a directory and Users should design their  '
     #        +'program so that the program will put all the output to a /Output directory.')
     print('First, Let us check the availability of servers by using checkIP.py.')
     print('It will take into a server file, which will record the essential information of the servers. ')
+    tip = raw_input("\npress any key to continue;\n")
+
     print('The format in the server_file should be: ')
     print('\n IP address '+ def_config.log_delimiter+ ' Port if not default '+ def_config.log_delimiter+' private Key if any \n')
-    
+    tip = raw_input("\npress any key to continue;\n")
+
     print('As an example, this is the conetent of serverfile used by demo:')
     #print('args.serverfile is '%( str(args.serverfile ) ))
     print 'args.serverfile is '+ args.serverfile + ' :'
@@ -186,16 +190,17 @@ if __name__ == "__main__":
         for line in serverF:
             print line
     print('The \'None\' means we will use default value.')
-
+    tip = raw_input("\npress any key to continue;\n")
+    
     print('Ready to run \n Workers = checkIP.fetch_workers(serverfile) ' 
             +'\n checkIP.check_servers(Workers,\'test\')' )
     print('\nIf you finished the content above and ready to run  '
             + 'the checkIP.py.')
-    tip = raw_input("press any key to continue;\n")
+    tip = raw_input("\npress any key to continue;\n")
 
     print('=====================checkIP.py=================================')
-    #Workers = checkIP.fetch_workers(args.serverfile)
-    #checkIP.check_servers(Workers,'test')
+    Workers = checkIP.fetch_workers(args.serverfile)
+    Workers = checkIP.check_servers(Workers,'test')
     print('=====================checkIP.py=================================')
     print('As can be seen, check_servers take two arguments, first one is servers info, second'
             + ' one is the name of project, \'test\' is a fault project that used for test')
@@ -206,32 +211,32 @@ if __name__ == "__main__":
             +'In this demo, we will run a demo.py in server side to process serval tasks.')
     print('demo.py will take two arguments, one is number of seconds to elapse. second one is'
             +' the location of /Output directory\n')
-    print('First, put all the tasks in a file, in this demo it is '+ args.ifile+':')
+    print('First, put all the tasks in a file, in this demo, input file is '+ args.ifile+':')
     with open(args.ifile,'r') as ifile:
         for line in ifile:
             print(line)
-    tip = raw_input("press any key to continue;\n")
+    tip = raw_input("\npress any key to continue;\n")
     
     print('Second, you will need a taskmaster class to handle the tasks.'
             +'\nCheck demoBulkAssign.py to get more information')
-    tip = raw_input("press any key to continue;\n")
-    print('Third, specify which project will be used in this job. In this demo, the proj is '
+    tip = raw_input("\npress any key to continue;\n")
+    print('Third, specify which project will be used in this job. In this demo, the project is '
             +args.proj)
-    tip = raw_input("press any key to continue;\n")
+    tip = raw_input("\npress any key to continue;\n")
 
-    print('Forth, specify which external function wil be called, In this demo, it is'
-            + args.exfun)
-    tip = raw_input("press any key to continue;\n")
+    print('Forth, specify which external function wil be called, '
+            + 'in this demo, executing function is '+ args.exfun)
+    tip = raw_input("\npress any key to continue;\n")
 
     print('Fifth, specify wall time for processing a single task (If you want). In this demo, '
-            +' it is '+ str(args.walltime) )
-    tip = raw_input("press any key to continue;\n")
+            +' wall time for individual task is '+ str(args.walltime) )
+    tip = raw_input("\npress any key to continue;\n")
 
     print('Last, specify an ID for your job. \nAnd please do not use the same ID '
             +'to submit the job repeatedly. Because the later job will write over your '
             + 'previous ones.\n'
-            +'In this demo, it is '+ args.tasks_id)
-    tip = raw_input("press any key to continue;\n")
+            +'In this demo, tasks ID is '+ args.tasks_id)
+    tip = raw_input("\npress any key to continue;\n")
 
     print('================== demo Assign tasks ====================')
     # check input 
@@ -292,8 +297,8 @@ if __name__ == "__main__":
     inputs_dict[def_config.bulk_assign_dict.walltime] = args.walltime
     inputs_dict[def_config.bulk_assign_dict.tasks_id] = args.tasks_id
     
-    #Workers = assign_tasks_bulk(inputs_dict,demo_task_master)
-    #print Workers
+    Workers = assign_tasks_bulk(inputs_dict,demo_task_master)
+    print Workers
     print('=================== demo assign tasks ======================')
 
     print('After Assign tasks, the tasks information would be stored in a [TasksID].record '
@@ -316,9 +321,16 @@ if __name__ == "__main__":
     
 
     print('=================== start check progs ======================')
-    #Workers = checkProgs.check_task_progs(Workers,PROTOC.ping_interval)
-    print('======= start downloading the output =====')
-    #getOutput.get_output_socket(Workers,'./')    
+    Workers = checkProgs.check_task_progs(Workers,PROTOC.ping_interval)
+    print('================== check progs stoped ======================')
+    print('=================== start downloading the output ===========')
+    getOutput.get_output_socket(Workers,'./')
+    print('=================== downloading finished ===================')
+    print('If checkProgs finished by itself, you should find the output zip file in the same directory'
+            + ' of the job recordfile.')
+    print('If output checkProgs is exited by user\'s input. Just try \"sh checkProgs.sh\" ' )
+    print('And if every thing goes right, you will find the output in '+parent_dir)
+
 
 
 
