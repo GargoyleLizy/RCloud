@@ -1,0 +1,7 @@
+Thu Oct 15 16:50:32 2015 : start {u'exfun': u'python', u'task': [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t4'], u'proj': u'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo', u'sing_idx': 0}
+Thu Oct 15 16:50:36 2015 : end
+Thu Oct 15 16:50:36 2015 : start {u'exfun': u'python', u'task': [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t5'], u'proj': u'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo', u'sing_idx': 1}
+Thu Oct 15 16:50:41 2015 : end
+Thu Oct 15 16:50:41 2015 : start {u'exfun': u'python', u'task': [u'demo.py', u'-o/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo/Output', u'-t6'], u'proj': u'/home/lizy/Learn/RSproject/LocalManLog/RCloud/RCProj/Projs/demo', u'sing_idx': 2}
+Thu Oct 15 16:50:47 2015 : end
+total time : 15

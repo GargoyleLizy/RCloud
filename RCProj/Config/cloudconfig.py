@@ -6,7 +6,7 @@ import json
 import socket
 import logging
 import zipfile
-
+import time
 # **** Helper function ******
 # zip files 
 # Original version: http://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory
@@ -242,19 +242,19 @@ class task_thread(threading.Thread):
             for name in dirs:
                 os.rmdir(os.path.join(root, name))
 
-        # stdo_log_path = proj_path + '/Output/' + self.client_tasks_id \
-        #                 + def_config.log_delimiter + str( self.task_log_idx ) \
-        #                 + '.o'
+        stdo_log_path = self.proj_path + '/Output/' + self.client_tasks_id \
+                         + def_config.log_delimiter + str( self.task_log_idx )
+        time_log_f = open(stdo_log_path,'w')
         # stde_log_path = proj_path + '/Output/' + self.client_tasks_id \
         #                 + def_config.log_delimiter + str( self.task_log_idx ) \
         #                 + '.e'
         # change stdout/err to a file 
-        #sys.stdout = open(stdo_log_path,'w')
         #sys.stderr = open(stde_log_path,'w')
-        
+        job_start_time = time.time()
         for task in self.task_list:
             # get essential infomation 
-            #temp_proj = task[protocol.taskL.proj]
+            #itime_log_f = open(stdo_log_path,'w')
+temp_proj = task[protocol.taskL.proj]
             temp_exfun = task[protocol.taskL.exfun]
             temp_task = task[protocol.taskL.task]
             
@@ -263,10 +263,14 @@ class task_thread(threading.Thread):
             logging.debug('Debug temp_exfun: %s',temp_exfun)
             logging.debug('Debug temp_task: %s',temp_task)
             logging.debug('Debug self.walltime: %s',self.walltime)
+
+            time_log_f.write("%s : start %s\n"
+                    % (time.asctime(time.localtime(time.time())),task ) )
             # Directing to the project direcotry
             os.chdir(self.proj_path)
             # executing the task
             try:
+                print()
                 if(self.walltime == None or self.walltime <= 0):
                     logging.debug('temp_exfun %s; temp_task %s ',temp_exfun,temp_task)
                     # merge them together
@@ -282,9 +286,11 @@ class task_thread(threading.Thread):
                 e=sys.exc_info()[0]
                 print(e)
                 logging.warning('Task %s didnot executed well because %s', temp_task,e)
+            time_log_f.write("%s : end\n"% (time.asctime(time.localtime(time.time())) )  )
             
             self.taskDoneCount +=1
-        
+        job_end_time = time.time()
+        time_log_f.write("total time : %d" % (job_end_time - job_start_time))
         # Zip the result and save to TaskOut under RCProj
         zipfile_name = self.SSTAT.ab_taskout_dir+'/' \
                     + str(self.task_log_idx) + def_config.log_delimiter \
@@ -297,6 +303,7 @@ class task_thread(threading.Thread):
         self.SSTAT.current_thread = None
         # restore the stdout/err to normal ones
         #sys.stdout.flush()
+        #sys.stdout.close()
         #sys.stderr.flush()
         #sys.stdout = sys.__stdout__
         #sys.stderr = sys.__stderr__

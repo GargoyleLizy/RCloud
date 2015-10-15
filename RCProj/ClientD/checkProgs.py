@@ -150,7 +150,7 @@ def check_task_progs(workers,ping_int):
                 if cross_end_sign['tasks_all_end'] == False:
                     print('Tasks is still not totally completed yet. wait %d sec and start new loop'
                             %ping_int)
-                    #time.sleep(ping_int)
+                    last_time = time.time()
                 else:
                     break
             else:
