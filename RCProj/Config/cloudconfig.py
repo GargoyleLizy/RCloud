@@ -254,7 +254,7 @@ class task_thread(threading.Thread):
         for task in self.task_list:
             # get essential infomation 
             #itime_log_f = open(stdo_log_path,'w')
-temp_proj = task[protocol.taskL.proj]
+            temp_proj = task[protocol.taskL.proj]
             temp_exfun = task[protocol.taskL.exfun]
             temp_task = task[protocol.taskL.task]
             
@@ -289,8 +289,9 @@ temp_proj = task[protocol.taskL.proj]
             time_log_f.write("%s : end\n"% (time.asctime(time.localtime(time.time())) )  )
             
             self.taskDoneCount +=1
-        job_end_time = time.time()
-        time_log_f.write("total time : %d" % (job_end_time - job_start_time))
+        time_log_f.write("total time : %d" % (time.time() - job_start_time))
+        time_log_f.flush();
+        time_log_f.close();
         # Zip the result and save to TaskOut under RCProj
         zipfile_name = self.SSTAT.ab_taskout_dir+'/' \
                     + str(self.task_log_idx) + def_config.log_delimiter \

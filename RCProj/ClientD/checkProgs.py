@@ -211,7 +211,7 @@ if __name__ == "__main__":
     # check the progress 
     workers = check_task_progs(workers,ping_int)
     parent_dir = os.path.abspath(os.path.join(args.ifile,os.pardir))
-    getOutput.get_output_socket(workers,parent_dir)
+    getOutput.get_output_socket(workers,'./')
     
     #key = None
     #workers =  

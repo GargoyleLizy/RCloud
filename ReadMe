@@ -1,0 +1,62 @@
+This project is designed to deploy cloud resources for a suite of bioinformatics applications.
+But I believe that it is generallized enough to handle different kinds of Matlab/Octave/Python... programs.
+
+For usage as a user.
+	Just run the demoBulk.sh to get a simple tutorial. 
+	First, "sh startS.sh" would start a local server at "localhost"
+	Second, type "sh demoBulk.sh" in your terminal.
+	demoBulk.sh would show you how to check availability of the servers.
+	how to assgin tasks to servers
+	how to check the progress of your tasks and collect the outputs
+	And the format of essential files (includes server_file and record_file)
+
+Starting a servers.
+	In terminal 
+	type either "sh startS.sh" or "python -m RCProj.ServerD.serverS -cd ./RCProj [-t test]"
+	The -m part is calling the serverS.py as a module.
+	The -cd part is telling the server script the project directory. So that the server can find the resources. 
+	The -t part decide the IP address of the server. if -t is provided arguments, the server would start on your localhost. Users can use that function to test their code locally.
+	If -t part is not specified, the server would get its public IP address by pinging Gmail and use that IP address to start as a server.
+
+	Also, the server can be kept running on the Cloud by supervisor. 
+	The link below is about how to install and manage supervisor.
+https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps
+	And you can find an startS.conf (supervisor configuration file) under RCloud/supervior/ .
+	Combined with the tutorial on the link, you can specify your own configuration file easily.
+
+
+Detailed description of the files under each directory
+	./RCProj/ServerD/
+	1. serverS.py
+		The python script of server. 
+	2. taskslog
+		The log of tasks/requests recorded by server
+	./RCProj/Projs/
+	This directory is used to store the projects. Projects here stands for programs and data required by tasks
+	./RCProj/TaskOut/
+	This directory is used for storing all the outputs of tasks processed by this server. 
+	The outputs are compressed into zip format
+	./RCProj/ClientD/
+	1.checkIP.py
+		Provide functions that can check the status of servers
+	2. demoBulkAssign.py
+		Provide functions that can be used to assign tasks to multiple servers
+		Also provide a tutorial about how the client works.
+	3. checkProgs.py
+		Provide functions that can check the progress of tasks on the server side
+	4. getOutput.py
+		Provide functions to retrieve the outputs of tasks
+	5. server_file
+		Records the essntial information about the servers
+	6. FBAproj.py
+		An python script that should be able to assign BAFBA,BHFBA and DBFBA tasks to servers.
+		This is also an example about how a user create his/her own project and implement it on client side
+	./RCProj/Config/
+	1. taskmaster.py
+		A taskmaster.py would be responsible for extracting tasks from an input file and reconstruct the corresponding tasks when needed. Users should provide a sub-class of this when they tried to implement a new project on this client/server system
+	2. cloudconfig.py
+		This file contains the default configuration values, 
+		the protocol class responsible for protocol used between server and client,
+		and a server status class that used by serverS.py.
+	
+
